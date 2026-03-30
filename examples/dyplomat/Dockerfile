@@ -1,4 +1,4 @@
-FROM golang:1.21
+FROM golang:1.26
 
 WORKDIR /go/src/dyplomat
 COPY . /go/src/dyplomat
